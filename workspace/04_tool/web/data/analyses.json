@@ -1,0 +1,38 @@
+{
+  "analyses": [],
+  "key_numbers": {},
+  "types": {
+    "energy-optimization": {
+      "icon": "⚡",
+      "name": "Energy optimization"
+    },
+    "modeling": {
+      "icon": "📐",
+      "name": "Mathematical modeling"
+    },
+    "forecasting": {
+      "icon": "🔮",
+      "name": "Forecasting"
+    },
+    "cost-benefit": {
+      "icon": "💰",
+      "name": "Cost-benefit"
+    },
+    "risk": {
+      "icon": "🎲",
+      "name": "Risk / scenarios"
+    },
+    "incentive": {
+      "icon": "🎁",
+      "name": "Incentive / policy design"
+    },
+    "stakeholder": {
+      "icon": "👥",
+      "name": "Stakeholder analysis"
+    },
+    "validation": {
+      "icon": "✅",
+      "name": "Validation"
+    }
+  }
+}

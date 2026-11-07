@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-11-07T02:23:13+00:00",
+  "decision": null,
+  "headline": {
+    "annual_savings_usd": 0.0,
+    "grid_metric_change": 0.0,
+    "npv_usd": 0.0,
+    "payback_years": null
+  },
+  "strategies": [
+    {
+      "strategy": "Status quo",
+      "cost": 0.0,
+      "grid": 0.0,
+      "reliable": true
+    },
+    {
+      "strategy": "Optimized",
+      "cost": 0.0,
+      "grid": 0.0,
+      "reliable": true
+    }
+  ],
+  "tornado": [
+    {
+      "param": "discount_rate",
+      "low": 0.05,
+      "high": 0.09,
+      "value_low": 0.0,
+      "value_high": 0.0,
+      "base": 0.0,
+      "range": 0.0
+    }
+  ],
+  "scenarios": {
+    "low": 0.0,
+    "base": 0.0,
+    "high": 0.0
+  },
+  "params": {
+    "discount_rate": 0.07,
+    "horizon_years": 10,
+    "capex": 0.0
+  }
+}

@@ -1,0 +1,18 @@
+# Data from Avangrid: never commit
+01_data/raw/*
+!01_data/raw/.gitkeep
+01_data/processed/*.parquet
+*.xlsx
+*.xls
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Tools
+.vercel/
+.DS_Store
+Thumbs.db
+~$*.pptx
